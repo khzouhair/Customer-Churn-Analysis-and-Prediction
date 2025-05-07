@@ -1,0 +1,1410 @@
+gender,Partner,Dependents,PhoneService,MultipleLines,InternetService,SeniorCitizen
+Female,Yes,No,No,No phone service,DSL,0
+Male,No,No,Yes,Yes,No,0
+Female,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,Yes,Yes,Yes,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Male,No,No,Yes,No,No,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,DSL,1
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,Yes,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,Yes,DSL,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,Yes,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,No,No,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,Yes,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,DSL,0
+Female,No,No,Yes,No,Fiber optic,1
+Male,No,No,No,No phone service,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Male,No,Yes,Yes,No,No,0
+Male,Yes,No,Yes,Yes,DSL,0
+Female,Yes,Yes,Yes,No,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,No,No,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,1
+Male,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,DSL,0
+Female,No,No,Yes,No,No,0
+Male,Yes,Yes,No,No phone service,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,DSL,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,No,0
+Male,No,No,Yes,No,Fiber optic,1
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Male,Yes,Yes,Yes,No,No,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,No,1
+Female,Yes,Yes,Yes,No,No,0
+Male,Yes,Yes,No,No phone service,DSL,0
+Male,No,No,Yes,No,No,0
+Male,Yes,Yes,Yes,Yes,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,Yes,No,No phone service,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,No,DSL,0
+Female,No,No,Yes,Yes,DSL,1
+Male,No,No,Yes,No,No,0
+Male,No,Yes,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,No,0
+Female,No,No,Yes,No,No,0
+Female,No,No,No,No phone service,DSL,0
+Female,Yes,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,No,0
+Female,No,No,No,No phone service,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,Yes,DSL,0
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Male,Yes,Yes,Yes,Yes,No,0
+Female,No,No,Yes,No,No,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,Yes,DSL,0
+Male,Yes,No,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Male,No,Yes,No,No phone service,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,No,DSL,0
+Female,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,No,0
+Female,No,No,No,No phone service,DSL,1
+Female,Yes,No,Yes,Yes,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,No,No phone service,DSL,0
+Male,Yes,Yes,Yes,No,DSL,0
+Female,No,No,Yes,Yes,DSL,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,No,DSL,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,No,No,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Male,Yes,No,Yes,No,Fiber optic,0
+Male,No,Yes,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,No,No,0
+Female,No,No,No,No phone service,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,Yes,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Male,No,Yes,Yes,No,No,0
+Male,Yes,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,Yes,DSL,0
+Female,Yes,Yes,Yes,No,No,0
+Male,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Male,Yes,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,Yes,DSL,0
+Male,Yes,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,1
+Male,Yes,Yes,Yes,No,DSL,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,No,No,No,No phone service,DSL,0
+Female,Yes,Yes,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Female,No,No,No,No phone service,DSL,0
+Female,No,No,Yes,No,No,0
+Female,Yes,Yes,Yes,Yes,No,0
+Female,No,Yes,Yes,No,No,0
+Female,No,Yes,No,No phone service,DSL,0
+Female,No,Yes,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,Yes,Yes,No,Fiber optic,1
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,No,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,Yes,Yes,No,No,0
+Male,Yes,Yes,Yes,No,No,0
+Male,Yes,Yes,Yes,Yes,No,0
+Female,No,No,No,No phone service,DSL,1
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,Yes,DSL,0
+Female,No,No,Yes,No,No,1
+Male,Yes,No,Yes,Yes,DSL,1
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Male,No,No,No,No phone service,DSL,1
+Male,Yes,Yes,Yes,Yes,Fiber optic,1
+Male,Yes,No,No,No phone service,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,No,Yes,Yes,DSL,0
+Male,Yes,No,Yes,No,Fiber optic,1
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,DSL,0
+Male,No,No,Yes,No,No,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,No,No,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Male,No,Yes,Yes,Yes,No,0
+Male,No,Yes,Yes,No,No,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Male,Yes,Yes,Yes,No,DSL,0
+Male,Yes,No,Yes,No,No,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,No,No phone service,DSL,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,Yes,Yes,No,No,0
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,No,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,No,DSL,0
+Male,Yes,No,Yes,No,DSL,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,DSL,0
+Female,No,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,No,0
+Male,No,No,Yes,Yes,DSL,0
+Female,No,No,Yes,No,No,0
+Male,No,No,No,No phone service,DSL,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,No,Yes,No,Fiber optic,0
+Female,Yes,No,No,No phone service,DSL,0
+Female,No,No,Yes,No,DSL,0
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,No,0
+Female,No,Yes,No,No phone service,DSL,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,No,Yes,Yes,Yes,Fiber optic,0
+Male,No,Yes,Yes,No,DSL,0
+Female,No,No,Yes,Yes,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,DSL,0
+Male,Yes,Yes,Yes,No,DSL,0
+Female,Yes,No,Yes,Yes,No,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Male,No,Yes,No,No phone service,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,No,DSL,0
+Male,No,Yes,Yes,No,DSL,0
+Female,No,No,Yes,No,DSL,0
+Female,No,No,Yes,No,Fiber optic,1
+Male,No,No,Yes,No,DSL,0
+Female,No,No,Yes,No,No,0
+Male,Yes,Yes,Yes,No,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,No,0
+Female,Yes,No,Yes,Yes,No,0
+Male,Yes,Yes,Yes,Yes,DSL,0
+Female,Yes,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,No,No,0
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Female,Yes,No,No,No phone service,DSL,0
+Female,Yes,No,Yes,No,DSL,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,No,No,No phone service,DSL,1
+Male,Yes,Yes,Yes,No,No,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,No,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,No,No,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,No,Fiber optic,1
+Male,No,No,Yes,No,DSL,0
+Female,Yes,No,Yes,No,Fiber optic,1
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,Yes,Yes,No,No,0
+Female,Yes,Yes,Yes,No,No,0
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,DSL,0
+Male,Yes,No,Yes,No,No,0
+Male,Yes,No,Yes,No,No,0
+Female,Yes,No,No,No phone service,DSL,0
+Male,No,No,Yes,No,No,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,No,No,0
+Female,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,Yes,No,Yes,No,No,1
+Male,Yes,No,Yes,No,Fiber optic,1
+Male,Yes,No,No,No phone service,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,No,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,No,No,No phone service,DSL,1
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,DSL,0
+Female,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Female,No,No,No,No phone service,DSL,0
+Male,No,No,Yes,No,Fiber optic,1
+Female,Yes,Yes,Yes,No,DSL,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,No,0
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,DSL,0
+Female,Yes,Yes,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,No,No phone service,DSL,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,No,0
+Male,No,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,No,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,Fiber optic,1
+Male,No,Yes,Yes,No,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Female,No,No,No,No phone service,DSL,0
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Male,Yes,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,DSL,0
+Female,No,No,Yes,No,No,0
+Female,No,Yes,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,Yes,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,1
+Male,Yes,Yes,Yes,Yes,DSL,0
+Female,Yes,No,Yes,Yes,No,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,Yes,No,0
+Male,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,No,DSL,0
+Female,No,No,Yes,Yes,No,0
+Female,No,No,No,No phone service,DSL,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,1
+Male,No,Yes,No,No phone service,DSL,0
+Female,No,No,Yes,Yes,DSL,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,No,No,0
+Female,Yes,Yes,Yes,No,DSL,0
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,No,1
+Female,No,No,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,No,No,No,No phone service,DSL,0
+Female,No,No,Yes,No,Fiber optic,1
+Female,Yes,No,No,No phone service,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,No,0
+Female,No,Yes,Yes,No,No,0
+Male,No,No,Yes,Yes,DSL,1
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Male,No,No,No,No phone service,DSL,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,Yes,No,No,No phone service,DSL,1
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,Yes,Yes,No,No phone service,DSL,0
+Male,Yes,Yes,Yes,Yes,DSL,0
+Female,No,No,Yes,Yes,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,No,DSL,0
+Male,Yes,No,No,No phone service,DSL,0
+Female,No,Yes,Yes,No,DSL,0
+Male,Yes,No,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,DSL,0
+Male,No,Yes,Yes,No,No,0
+Male,No,No,Yes,Yes,No,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,No,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,No,0
+Male,Yes,Yes,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Male,No,No,No,No phone service,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Male,No,No,Yes,No,DSL,0
+Female,Yes,No,Yes,Yes,No,0
+Female,Yes,Yes,Yes,No,DSL,0
+Male,Yes,No,Yes,No,Fiber optic,0
+Male,No,No,No,No phone service,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,Fiber optic,1
+Male,No,No,No,No phone service,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Male,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,No,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,Yes,DSL,0
+Female,Yes,No,No,No phone service,DSL,0
+Male,No,Yes,Yes,No,No,0
+Female,Yes,No,No,No phone service,DSL,0
+Female,Yes,No,Yes,No,DSL,0
+Female,Yes,No,Yes,No,Fiber optic,1
+Male,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,1
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,DSL,0
+Female,No,No,Yes,No,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Male,No,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,No,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,Yes,No,0
+Female,Yes,No,No,No phone service,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Male,Yes,No,No,No phone service,DSL,1
+Female,Yes,No,Yes,No,DSL,0
+Female,No,No,Yes,No,DSL,0
+Female,Yes,No,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,No,Yes,No,No,1
+Female,No,No,Yes,No,DSL,0
+Female,No,No,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Male,Yes,No,Yes,No,DSL,0
+Male,Yes,Yes,Yes,No,No,0
+Female,Yes,Yes,Yes,No,No,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Male,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,No,Yes,No,No,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,Yes,No,No,No phone service,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,Yes,DSL,1
+Female,Yes,Yes,Yes,Yes,No,0
+Female,Yes,No,No,No phone service,DSL,1
+Female,No,Yes,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,No,0
+Male,Yes,No,Yes,No,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Female,Yes,Yes,Yes,No,No,0
+Female,Yes,Yes,Yes,No,No,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,DSL,0
+Male,No,No,Yes,No,No,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,No,No,No phone service,DSL,0
+Male,No,No,Yes,Yes,No,1
+Male,Yes,Yes,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,Yes,Yes,No,DSL,0
+Female,No,No,Yes,No,No,0
+Female,Yes,No,Yes,Yes,No,0
+Male,No,No,Yes,No,Fiber optic,1
+Male,Yes,Yes,No,No phone service,DSL,0
+Male,Yes,Yes,Yes,No,No,0
+Male,No,No,Yes,Yes,DSL,1
+Male,Yes,Yes,Yes,No,DSL,1
+Male,No,No,Yes,No,DSL,0
+Female,Yes,No,Yes,Yes,No,1
+Male,Yes,Yes,Yes,No,DSL,0
+Female,Yes,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,DSL,1
+Female,Yes,Yes,No,No phone service,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,No,0
+Female,No,No,Yes,No,No,0
+Male,No,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,DSL,0
+Male,Yes,No,Yes,No,DSL,1
+Male,No,No,Yes,Yes,DSL,0
+Female,No,No,Yes,No,Fiber optic,1
+Female,Yes,No,Yes,Yes,DSL,0
+Male,Yes,No,Yes,Yes,No,0
+Male,No,No,Yes,Yes,DSL,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,Yes,No,0
+Female,Yes,No,Yes,Yes,DSL,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,No,No,No phone service,DSL,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,1
+Male,Yes,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,DSL,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,No,No,0
+Female,Yes,Yes,No,No phone service,DSL,1
+Male,Yes,No,Yes,No,Fiber optic,0
+Female,No,Yes,Yes,Yes,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,No,DSL,0
+Female,No,No,Yes,Yes,No,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,DSL,0
+Female,No,No,Yes,No,No,0
+Female,Yes,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,DSL,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Male,No,Yes,Yes,Yes,DSL,0
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,DSL,0
+Female,No,No,Yes,Yes,DSL,0
+Male,No,No,No,No phone service,DSL,0
+Male,No,Yes,Yes,No,No,0
+Female,Yes,Yes,Yes,No,No,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,No,0
+Female,Yes,Yes,Yes,No,No,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,No,No,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,No,No,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,No,Yes,No,DSL,1
+Male,Yes,Yes,Yes,Yes,No,1
+Male,Yes,No,Yes,Yes,DSL,1
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,No,No phone service,DSL,1
+Male,No,No,Yes,No,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Female,No,No,No,No phone service,DSL,0
+Male,Yes,Yes,No,No phone service,DSL,0
+Female,Yes,Yes,Yes,Yes,DSL,1
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,Yes,DSL,1
+Female,No,No,Yes,No,Fiber optic,1
+Female,No,Yes,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,No,0
+Male,Yes,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,No,Fiber optic,1
+Female,Yes,Yes,Yes,No,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,Yes,Yes,No,No,0
+Female,Yes,No,Yes,Yes,No,0
+Female,No,No,Yes,Yes,DSL,0
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,DSL,1
+Female,Yes,Yes,Yes,No,DSL,0
+Male,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,Yes,DSL,1
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,No,No phone service,DSL,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,Yes,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,No,No,0
+Male,Yes,No,Yes,No,Fiber optic,1
+Female,No,No,Yes,No,Fiber optic,1
+Female,No,No,Yes,No,No,0
+Female,Yes,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Female,No,No,Yes,No,No,0
+Male,Yes,No,Yes,Yes,DSL,1
+Female,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,No,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,DSL,0
+Female,No,Yes,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,No,No phone service,DSL,0
+Male,No,Yes,No,No phone service,DSL,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,Yes,Yes,No,DSL,0
+Male,Yes,Yes,Yes,Yes,No,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Male,No,Yes,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,Yes,DSL,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,Yes,No,No phone service,DSL,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,Yes,Yes,No,No,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,DSL,0
+Male,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,1
+Female,Yes,Yes,No,No phone service,DSL,1
+Female,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,No,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Male,No,Yes,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,DSL,1
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Male,No,No,Yes,Yes,No,0
+Male,Yes,Yes,No,No phone service,DSL,1
+Female,Yes,Yes,Yes,Yes,No,0
+Female,Yes,Yes,Yes,No,No,0
+Male,Yes,Yes,No,No phone service,DSL,0
+Female,Yes,No,Yes,Yes,DSL,0
+Male,Yes,No,Yes,No,Fiber optic,1
+Male,No,No,Yes,No,Fiber optic,0
+Female,No,No,No,No phone service,DSL,0
+Female,Yes,Yes,Yes,No,No,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,No,0
+Male,Yes,No,No,No phone service,DSL,0
+Female,No,No,Yes,Yes,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,No,No phone service,DSL,0
+Male,No,No,Yes,No,No,0
+Female,Yes,No,Yes,Yes,DSL,0
+Male,No,Yes,Yes,No,DSL,0
+Female,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,1
+Male,No,No,Yes,No,No,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,No,1
+Female,No,No,Yes,Yes,DSL,1
+Male,No,No,Yes,No,No,0
+Male,Yes,No,Yes,No,No,1
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,Yes,No,0
+Male,Yes,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,1
+Male,Yes,Yes,Yes,Yes,DSL,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Male,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,DSL,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,No,No phone service,DSL,0
+Female,Yes,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,No,Yes,No,No,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,1
+Female,No,No,No,No phone service,DSL,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Male,No,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,No,DSL,0
+Male,No,No,No,No phone service,DSL,0
+Female,Yes,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Female,No,No,No,No phone service,DSL,0
+Female,No,No,Yes,No,Fiber optic,1
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,No,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,No,Yes,Yes,No,No,0
+Female,Yes,Yes,Yes,No,DSL,0
+Male,No,No,Yes,No,No,0
+Female,Yes,No,Yes,No,No,1
+Male,No,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Male,No,No,No,No phone service,DSL,0
+Female,Yes,Yes,Yes,No,No,0
+Female,No,No,No,No phone service,DSL,1
+Male,No,No,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,DSL,0
+Male,No,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,No,No,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,Yes,Yes,No,No,0
+Male,No,Yes,Yes,No,No,0
+Male,Yes,No,Yes,No,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,No,Fiber optic,1
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,DSL,0
+Male,No,No,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,No,No phone service,DSL,1
+Female,No,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,No,No,0
+Male,No,No,No,No phone service,DSL,0
+Female,No,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,Yes,Yes,No,No,0
+Male,No,Yes,Yes,No,DSL,0
+Male,Yes,No,No,No phone service,DSL,0
+Male,No,No,Yes,No,DSL,0
+Male,Yes,Yes,Yes,No,DSL,0
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,No,No,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,No,No,0
+Female,Yes,Yes,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,No,0
+Female,Yes,No,Yes,Yes,No,0
+Female,Yes,No,Yes,No,No,0
+Male,Yes,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,No,0
+Female,Yes,No,Yes,No,DSL,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Female,No,Yes,Yes,Yes,DSL,0
+Female,No,No,Yes,No,DSL,0
+Male,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,No,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,DSL,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,No,0
+Male,No,Yes,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,Fiber optic,1
+Male,Yes,No,Yes,Yes,DSL,0
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,DSL,0
+Male,No,No,Yes,No,DSL,0
+Female,No,No,Yes,No,Fiber optic,1
+Female,Yes,Yes,Yes,Yes,DSL,1
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Male,No,Yes,Yes,Yes,DSL,0
+Male,No,No,Yes,No,No,0
+Male,No,No,Yes,Yes,No,0
+Female,Yes,No,Yes,No,DSL,0
+Female,No,Yes,Yes,No,No,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,No,No phone service,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,No,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,No,DSL,0
+Female,Yes,No,Yes,No,DSL,0
+Male,Yes,No,No,No phone service,DSL,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,No,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,No,No,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,DSL,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,No,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,Yes,DSL,0
+Female,Yes,Yes,Yes,No,No,0
+Male,Yes,Yes,Yes,No,No,0
+Male,No,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Male,Yes,No,Yes,No,No,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,Yes,No,0
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,Fiber optic,1
+Male,No,No,Yes,Yes,Fiber optic,1
+Female,Yes,No,Yes,Yes,DSL,0
+Male,No,No,Yes,No,DSL,1
+Female,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,No,Yes,Yes,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,DSL,1
+Male,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,No,0
+Male,Yes,No,Yes,No,No,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,No,0
+Male,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,DSL,0
+Female,No,No,Yes,Yes,DSL,1
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,No,No,No phone service,DSL,0
+Male,Yes,Yes,Yes,No,No,0
+Male,Yes,No,Yes,No,Fiber optic,1
+Male,No,No,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,Yes,No,No,No phone service,DSL,1
+Male,No,No,Yes,No,Fiber optic,1
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,Yes,No,No phone service,DSL,0
+Male,No,No,Yes,No,Fiber optic,1
+Female,Yes,Yes,Yes,No,No,0
+Male,Yes,No,Yes,No,Fiber optic,1
+Male,No,No,No,No phone service,DSL,0
+Male,No,No,Yes,No,DSL,0
+Female,No,No,No,No phone service,DSL,0
+Male,Yes,Yes,Yes,No,DSL,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,No,No,0
+Female,Yes,No,Yes,No,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,1
+Female,No,No,Yes,Yes,Fiber optic,1
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Male,No,Yes,No,No phone service,DSL,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,No,0
+Female,Yes,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,DSL,1
+Male,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,No,Yes,Yes,No,Fiber optic,0
+Male,No,No,No,No phone service,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,No,No,No phone service,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,DSL,0
+Male,Yes,No,Yes,No,DSL,0
+Male,No,No,Yes,No,Fiber optic,1
+Male,Yes,Yes,Yes,Yes,No,0
+Male,Yes,Yes,Yes,No,No,0
+Male,Yes,Yes,Yes,Yes,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,DSL,0
+Female,Yes,No,No,No phone service,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,No,No phone service,DSL,0
+Male,No,No,No,No phone service,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Male,Yes,Yes,Yes,No,DSL,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,Yes,Yes,Yes,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,No,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,No,No,No phone service,DSL,0
+Male,No,Yes,Yes,Yes,No,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,No,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,1
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,DSL,1
+Female,No,No,Yes,Yes,No,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,Yes,DSL,1
+Male,No,No,No,No phone service,DSL,0
+Female,Yes,No,Yes,No,Fiber optic,0
+Female,Yes,No,No,No phone service,DSL,0
+Female,No,No,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,1
+Female,Yes,No,Yes,No,Fiber optic,0
+Male,No,Yes,Yes,No,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,No,DSL,0
+Female,Yes,No,Yes,Yes,No,0
+Male,Yes,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,No,Yes,No,DSL,1
+Female,No,No,Yes,Yes,DSL,1
+Female,No,No,Yes,No,Fiber optic,1
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,DSL,0
+Female,No,No,Yes,No,DSL,0
+Male,No,No,No,No phone service,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Female,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,DSL,1
+Male,Yes,Yes,Yes,No,No,0
+Male,Yes,No,Yes,No,DSL,0
+Female,No,No,No,No phone service,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,No,Yes,No,No,0
+Female,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,No,No,1
+Male,No,No,Yes,No,No,0
+Female,Yes,Yes,Yes,No,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,No,0
+Male,Yes,Yes,Yes,No,DSL,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,No,No,No,No phone service,DSL,0
+Male,Yes,No,Yes,No,No,0
+Male,No,No,Yes,Yes,DSL,0
+Female,Yes,No,Yes,Yes,DSL,0
+Male,Yes,Yes,No,No phone service,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,Yes,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,No,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,1
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,No,No,0
+Male,Yes,No,No,No phone service,DSL,0
+Female,No,No,No,No phone service,DSL,1
+Female,No,No,No,No phone service,DSL,1
+Male,No,Yes,Yes,No,No,0
+Female,No,No,Yes,No,DSL,1
+Female,Yes,Yes,Yes,No,No,0
+Female,No,Yes,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,No,No,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Female,No,No,Yes,Yes,DSL,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,DSL,0
+Male,No,No,Yes,No,DSL,0
+Female,No,No,Yes,No,DSL,0
+Male,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,1
+Male,No,Yes,Yes,Yes,Fiber optic,0
+Male,No,Yes,Yes,No,DSL,1
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,DSL,0
+Female,Yes,Yes,Yes,No,No,0
+Female,Yes,Yes,Yes,No,No,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Female,Yes,No,No,No phone service,DSL,1
+Male,No,No,Yes,Yes,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,No,0
+Male,Yes,No,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,DSL,0
+Male,No,No,No,No phone service,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,No,No,0
+Male,Yes,Yes,Yes,Yes,DSL,0
+Female,No,No,Yes,Yes,DSL,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Male,No,No,No,No phone service,DSL,0
+Male,Yes,Yes,Yes,No,DSL,0
+Male,Yes,Yes,Yes,No,DSL,0
+Male,Yes,Yes,Yes,Yes,No,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,DSL,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Male,No,Yes,Yes,No,No,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,DSL,0
+Female,Yes,No,Yes,No,No,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,Yes,No,0
+Male,No,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,No,No,0
+Male,No,Yes,Yes,No,DSL,0
+Male,No,No,Yes,No,No,0
+Male,Yes,Yes,Yes,Yes,DSL,0
+Male,No,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,Yes,DSL,0
+Female,Yes,No,Yes,No,Fiber optic,1
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,Yes,Yes,No,DSL,0
+Female,Yes,No,Yes,Yes,DSL,0
+Female,Yes,No,Yes,No,DSL,1
+Female,No,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,Yes,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,Yes,Yes,No,DSL,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Female,No,No,Yes,No,No,0
+Male,Yes,Yes,Yes,Yes,No,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,1
+Male,Yes,Yes,Yes,No,DSL,0
+Female,No,No,No,No phone service,DSL,0
+Male,Yes,Yes,Yes,No,No,0
+Male,Yes,No,No,No phone service,DSL,0
+Female,No,No,No,No phone service,DSL,0
+Female,Yes,Yes,Yes,No,No,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,No,Yes,No,Fiber optic,1
+Female,No,No,Yes,No,Fiber optic,1
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,No,No phone service,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,No,No,0
+Female,No,No,Yes,No,No,0
+Male,No,No,Yes,No,No,0
+Male,Yes,Yes,Yes,No,No,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,No,DSL,1
+Male,No,No,Yes,No,No,0
+Female,Yes,No,Yes,Yes,DSL,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Female,Yes,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,DSL,0
+Male,Yes,Yes,Yes,Yes,DSL,0
+Male,No,No,Yes,No,No,0
+Male,No,Yes,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,No,Yes,Yes,No,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,DSL,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,Yes,Yes,No,No,0
+Male,Yes,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,DSL,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Female,No,No,Yes,No,No,0
+Male,Yes,No,Yes,Yes,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Male,Yes,No,Yes,Yes,DSL,0
+Male,No,No,Yes,No,No,0
+Male,No,Yes,Yes,Yes,No,0
+Male,No,No,Yes,No,No,0
+Female,Yes,No,Yes,Yes,DSL,1
+Male,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,DSL,0
+Female,No,No,No,No phone service,DSL,0
+Female,No,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,DSL,0
+Female,Yes,No,Yes,No,No,0
+Male,No,No,Yes,No,DSL,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,No,No,0
+Male,Yes,Yes,Yes,Yes,No,0
+Female,No,No,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,DSL,0
+Male,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,Yes,DSL,1
+Female,Yes,No,Yes,Yes,DSL,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Female,Yes,No,Yes,No,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,Yes,No,0
+Female,No,No,Yes,No,No,0
+Female,Yes,No,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,Yes,Fiber optic,1
+Male,No,No,Yes,No,Fiber optic,0
+Female,Yes,No,No,No phone service,DSL,0
+Female,No,No,Yes,No,No,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,No,0
+Male,Yes,Yes,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,No,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,1
+Female,Yes,Yes,Yes,No,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,No,0
+Female,No,Yes,Yes,Yes,DSL,0
+Male,No,No,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Female,Yes,Yes,Yes,No,No,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,No,No,Yes,No,No,0
+Female,Yes,No,Yes,Yes,DSL,0
+Female,No,No,Yes,No,DSL,0
+Female,Yes,No,Yes,Yes,DSL,0
+Female,No,No,No,No phone service,DSL,0
+Female,Yes,No,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,No,No,Yes,No,No,0
+Male,No,No,Yes,Yes,DSL,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,1
+Female,No,Yes,Yes,Yes,DSL,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Female,No,No,Yes,No,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,Yes,Yes,Yes,No,No,0
+Female,Yes,No,Yes,No,DSL,0
+Male,No,No,Yes,No,No,0
+Female,Yes,No,Yes,Yes,DSL,0
+Male,Yes,No,No,No phone service,DSL,0
+Male,No,No,Yes,No,Fiber optic,0
+Male,No,No,Yes,Yes,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Female,No,No,Yes,No,Fiber optic,1
+Female,No,Yes,Yes,No,Fiber optic,0
+Female,Yes,No,Yes,Yes,DSL,1
+Male,No,No,Yes,No,DSL,0
+Male,No,No,Yes,Yes,No,0
+Female,No,No,Yes,No,Fiber optic,0
+Male,Yes,No,Yes,Yes,Fiber optic,0
+Female,No,No,No,No phone service,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Female,No,No,Yes,Yes,DSL,0
+Female,Yes,Yes,Yes,No,No,0
+Female,No,No,Yes,No,DSL,0
+Female,No,No,No,No phone service,DSL,0
+Female,No,No,Yes,Yes,Fiber optic,1
+Male,Yes,No,Yes,Yes,No,1
+Male,No,No,Yes,Yes,Fiber optic,1
+Female,No,Yes,Yes,No,DSL,0
+Female,Yes,Yes,Yes,Yes,Fiber optic,0
+Female,Yes,No,Yes,No,DSL,0
+Male,Yes,Yes,Yes,Yes,Fiber optic,0
+Male,Yes,Yes,Yes,No,No,0
+Female,Yes,Yes,No,No phone service,DSL,0
+Male,No,Yes,No,No phone service,DSL,0
